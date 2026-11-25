@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Team Collaboration Map logo: pigeons gathered around a fire">
+<title>Team Collaboration Map</title>
+<circle cx="123" cy="123" r="112" fill="#2a2350"/><circle cx="120" cy="120" r="112" fill="#fffdf8" stroke="#2a2350" stroke-width="4"/><g transform="rotate(30 120 120) translate(120 194) scale(0.82)">
+<path d="M-6 12 L-11 29 Q0 33 11 29 L6 12 Z" fill="#2a2350"/>
+<ellipse cx="0" cy="0" rx="12" ry="17" fill="#2a2350"/>
+<path d="M-7 -6 C-6 4 -3 11 0 14 C3 11 6 4 7 -6" fill="none" stroke="#e0d0f3" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-20" r="7" fill="#2a2350"/>
+<path d="M-2.5 -26 L0 -32 L2.5 -26 Z" fill="#2a2350"/>
+</g><g transform="rotate(90 120 120) translate(120 194) scale(0.82)">
+<path d="M-6 12 L-11 29 Q0 33 11 29 L6 12 Z" fill="#2a2350"/>
+<ellipse cx="0" cy="0" rx="12" ry="17" fill="#2a2350"/>
+<path d="M-7 -6 C-6 4 -3 11 0 14 C3 11 6 4 7 -6" fill="none" stroke="#e0d0f3" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-20" r="7" fill="#2a2350"/>
+<path d="M-2.5 -26 L0 -32 L2.5 -26 Z" fill="#2a2350"/>
+</g><g transform="rotate(150 120 120) translate(120 194) scale(0.82)">
+<path d="M-6 12 L-11 29 Q0 33 11 29 L6 12 Z" fill="#2a2350"/>
+<ellipse cx="0" cy="0" rx="12" ry="17" fill="#2a2350"/>
+<path d="M-7 -6 C-6 4 -3 11 0 14 C3 11 6 4 7 -6" fill="none" stroke="#e0d0f3" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-20" r="7" fill="#2a2350"/>
+<path d="M-2.5 -26 L0 -32 L2.5 -26 Z" fill="#2a2350"/>
+</g><g transform="rotate(210 120 120) translate(120 194) scale(0.82)">
+<path d="M-6 12 L-11 29 Q0 33 11 29 L6 12 Z" fill="#2a2350"/>
+<ellipse cx="0" cy="0" rx="12" ry="17" fill="#2a2350"/>
+<path d="M-7 -6 C-6 4 -3 11 0 14 C3 11 6 4 7 -6" fill="none" stroke="#e0d0f3" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-20" r="7" fill="#2a2350"/>
+<path d="M-2.5 -26 L0 -32 L2.5 -26 Z" fill="#2a2350"/>
+</g><g transform="rotate(270 120 120) translate(120 194) scale(0.82)">
+<path d="M-6 12 L-11 29 Q0 33 11 29 L6 12 Z" fill="#2a2350"/>
+<ellipse cx="0" cy="0" rx="12" ry="17" fill="#2a2350"/>
+<path d="M-7 -6 C-6 4 -3 11 0 14 C3 11 6 4 7 -6" fill="none" stroke="#e0d0f3" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-20" r="7" fill="#2a2350"/>
+<path d="M-2.5 -26 L0 -32 L2.5 -26 Z" fill="#2a2350"/>
+</g><g transform="rotate(330 120 120) translate(120 194) scale(0.82)">
+<path d="M-6 12 L-11 29 Q0 33 11 29 L6 12 Z" fill="#2a2350"/>
+<ellipse cx="0" cy="0" rx="12" ry="17" fill="#2a2350"/>
+<path d="M-7 -6 C-6 4 -3 11 0 14 C3 11 6 4 7 -6" fill="none" stroke="#e0d0f3" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="0" cy="-20" r="7" fill="#2a2350"/>
+<path d="M-2.5 -26 L0 -32 L2.5 -26 Z" fill="#2a2350"/>
+</g><g transform="translate(120 120) scale(1.0) translate(0.01 -0.00)" fill="none" stroke="#2a2350" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"><path d="M-3 35 C-15 22 -10 -8 0 -35 C9 -16 14 4 7 20"/><path d="M-11 35 C-25 28 -28 10 -20 -6"/><path d="M9 35 C24 29 28 12 21 -4"/></g>
+</svg>
